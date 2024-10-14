@@ -1,5 +1,5 @@
-import function
+from utils.function import add
 
 if __name__ == "__main__":
-    n = function.add(1, 2)
+    n = add(1, 2)
     print(n)
